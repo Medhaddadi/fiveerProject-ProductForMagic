@@ -159,7 +159,10 @@ img {
  :focus {
      outline: 0;
 }
-
+.product_box figure>img{
+     width: auto;
+     height: 300px;
+}
 .btn-custom {
      margin-top: 20px;
      background-color: transparent !important;
