@@ -110,7 +110,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-     color: #212121;
+     color: white;
      text-decoration: none!important;
      opacity: 1
 }
@@ -412,7 +412,7 @@ ul.btn li:last-child {
      left: 38px;
 }
 .text-bg {
-     text-align: left;
+     text-align: center;
 }
 
 .text-bg h1 {
